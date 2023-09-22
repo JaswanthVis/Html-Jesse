@@ -1,12 +1,14 @@
 html{
   background:#faebd7
 }
+dvi{
+  background:#5F9EA0
+  margin-left: 25%;
+  width:50%;
+}
 h1{
   font-family:'OCR A Std', monospace;
 }
 #first{
-  background:#5F9EA0
-  margin-left: 25%;
-  width:50%;
   border:5px solid white;
 }
